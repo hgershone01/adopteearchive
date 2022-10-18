@@ -14,11 +14,17 @@ credits: true
 
 # About the Archive
 
-## This project began out of disappointment.
+## *This project began out of disappointment.*
+
+<div class="row collection-narrow">
+<div class="col-12 py-15" markdown="1">
+<!--- {% include feature/image.html objectid="demo_005" width="50" %} -->
+
+{% include feature/image.html objectid="demo_005;demo_001;demo_001" %}
 
 Why are spaces outside the adoptee community silent on environmental injustices surrounding adoption? 
 
-In the discourse surrounding uncertain toxic futurities, reproductive anxieties, and climate disasters, adoptees of color (and their birth families) are typically erased in narratives of humanitarianism and environmentalism.
+In the discourse surrounding uncertain toxic futurities, reproductive anxieties, and climate disasters, adoptees of color (an{d their birth families) are typically erased in narratives of humanitarianism and environmentalism.
 
 *Adoptee Literary and Art Archive* argues that **environmental justice is adoptee justice.**
 
