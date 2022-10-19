@@ -2,6 +2,8 @@ display_name,stub,dropdown_parent
 Home,/
 About,,
 The Archive,/about.html,About
+Context,/context.html,About
+Creator,/creator.html,About
 Submissions,/submissions.html,About
 Browse,/browse.html
 Subjects,/subjects.html
