@@ -1,7 +1,7 @@
 ---
-title: Context
+title: Background
 layout: about
-permalink: /context.html
+permalink: /background.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
