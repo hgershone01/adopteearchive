@@ -2,21 +2,23 @@ display_name,stub,dropdown_parent
 Home,/
 About,,
 The Archive,/about.html,About
-Background,/background.html,About
 Creator,/creator.html,About
-Overview,/submissions.html,About
-Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
+Background,/background.html,About
+Licensing,/licensing.html,About
+Submissions,,
+Overview,/submissions.html,Submissions
+Visual Representations,/visualrepresentations.html,Submissions
+Literature,/literature.html,Submissions
+Film,/film.html,Submissions
+Audio,/audio.html,Submissions
+Guiding Prompts,/prompts.html,Submissions
+Editing Resources,/resources.html,Submissions
+Browse,,
+Collection,/browse.html,Browse
+Subjects,/subjects.html,Browse
+Locations,/locations.html,Browse
 Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
-Guiding Prompts,/prompts.html
-Licensing,/licensing.html
-Visual Representations,/visualrepresentations.html,About
-Literature,/literature.html,About
-Film,/film.html
-Audio,/audio.html
-Editing Resources,/resources.html
 Territorial Acknowledgements,/territory.html
 Contact,/contact.html
