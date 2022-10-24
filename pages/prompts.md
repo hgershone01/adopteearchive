@@ -14,6 +14,8 @@ credits: true
 
 Below is a list of optional guiding prompts to aid in sparking ideas, thoughts, questions, and curiosities for creating work.  This list was modeled after, and inspired by, [Latino Outdoors’ prompts for Yo Cuento blog posts.](https://latinooutdoors.org/blog/a-guide-to-writing-your-yo-cuento-blog-post/)
 
+---
+
 - Where is home?
 
 - Where do you find joy?
