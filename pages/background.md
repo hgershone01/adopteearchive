@@ -12,17 +12,21 @@ credits: true
 
 # A Note on Adoption and Uncertain Climate Futurities
 
-“How is it moral to do anything but adopt?” asks Sierra Club journalist Katie O’Reilly (O’Reilly). In the face of uncertain climate futurities, or the very uncertainty of life in the face of increasing climate disasters, resource scarcity, and toxic landscapes, prospective parents are weighing the morality of adopting rather than having biological children. The Institute of Family Studies reported in 2011 that while most adopted children in the U.S. are nonwhite (61%), their adoptive parents tend to be White (77%) (Institute for Family Studies). We might also consider that from 1999 to 2011, transracial placements within the U.S. increased by 50% (Institute for Family Studies). Thus, Katie O’Reilly’s question is concerning precisely because it frames adoption as a racialized climate solution. This is not an isolated case. Mainstream news organizations such as the New York Times and NPR are discussing adoption as a normalized, ‘creative’ solution within the context of climate change (Olmstead; Ludden).
+"How is it moral to do anything but adopt?" asks Sierra Club journalist Katie O’Reilly (O’Reilly). In the face of uncertain climate futurities, or the very uncertainty of life in the face of increasing climate disasters, resource scarcity, and toxic landscapes, prospective parents are weighing the morality of adopting rather than having biological children. 
 
-Dr. Kimberly McKee argues that transracial adoption should be examined as a “reproductive technology” which involves the purchasing of [a] woman’s maternal labor and the manipulation of their bodies into disembodied separate parts—uterus, fallopian tubes, embryos” (McKee “Reproductive Justice Issue” 78-79). Both biological mothers of color and adoptees are part of these international and domestic markets (McKee Disrupting Kinship 2). One clear example which illustrates the intersections between adoptees and the environment can be seen in the wake of the 2010 Haiti earthquake. Journalists at the time found a correlated rise in the illegal trafficking of Haitian children with increasing demands from American parents for adoptable Haitian children; orphanages that were not directly affected by the earthquake were effectively emptied (Thompson). Meanwhile, children of color were also kidnapped from their living parents in narratives of race and rescue (Thompson).
+The Institute of Family Studies reported in 2011 that while most adopted children in the U.S. are nonwhite (61%), their adoptive parents tend to be White (77%) (Institute for Family Studies). We might also consider that from 1999 to 2011, transracial placements within the U.S. increased by 50% (Institute for Family Studies). Thus, Katie O’Reilly’s question is concerning precisely because it frames adoption as a racialized climate solution. This is not an isolated case. Mainstream news organizations such as the New York Times and NPR are discussing adoption as a normalized, ‘creative’ solution within the context of climate change (Olmstead; Ludden). 
 
-With the expected increase in climate disasters and climate refugees, one must wonder how children, particularly Black, Indigenous, and other children of color, will become implicated in domestic and international environmental and social service policies (Tower). There is a tremendous need for scholarship examining the entanglements between adoption and uncertain environmental futurities, yet scholarly discourse explicitly discussing the linkages between the two could not be found at the time of writing.
+Dr. Kimberly McKee argues that transracial adoption should be examined as a “reproductive technology” which involves the purchasing of [a] woman’s maternal labor and the manipulation of their bodies into disembodied separate parts—uterus, fallopian tubes, embryos” (McKee “Reproductive Justice Issue” 78-79). Both biological mothers of color and adoptees are part of these international and domestic markets (McKee Disrupting Kinship 2). 
 
-Transracial adoptees are continually transformed and negotiated- as a figure of imperialism and multiculturalism, as a global commodity, and as an adult identity. As a Chinese transracial adoptee, the visibility and invisibility of the transracial adoptees compels me both as a scholar and as having a personal stake in the matter myself.  
+One clear example which illustrates the intersections between adoptees and the environment can be seen in the wake of the 2010 Haiti earthquake. Journalists at the time found a correlated rise in the illegal trafficking of Haitian children with increasing demands from American parents for adoptable Haitian children; orphanages that were not directly affected by the earthquake were effectively emptied (Thompson). Meanwhile, children of color were also kidnapped from their living parents in narratives of race and rescue (Thompson). 
 
-Within the context of climate change, environmental justice is adoptee justice.  Adoptee Literary and Art Archive is situated within the legacy of other adoptee creative works, activisms, and organizations. The archive is not only an exploration of transracial adoptee negotiations and disruptions in the age of navigating uncertain climate futurities but also a call for transformation across all scales, temporalities, and spaces. It makes space for contradictions, ambiguity, anger, frustration, and overwhelming sorrow. At the same moment, the archive welcomes celebration, joy, and kinship.
+ With the expected increase in climate disasters and climate refugees, one must wonder how children, particularly Black, Indigenous, and other children of color, will become implicated in domestic and international environmental and social service policies (Tower). There is a tremendous need for scholarship examining the entanglements between adoption and uncertain environmental futurities, yet scholarly discourse explicitly discussing the linkages between the two could not be found at the time of writing. 
 
-This archive is for adoptees, wherever they are in their journey.
+ Transracial adoptees are continually transformed and negotiated- as a figure of U.S. imperialism and multiculturalism, as a global commodity, and as an adult identity (Choy 6). As a Chinese transracial adoptee, the visibility and invisibility of the transracial adoptees compels me as a scholar and in having a personal stake in the matter myself.  
+
+ Within the context of climate change, environmental justice is adoptee justice. *Adoptee Literary and Art Archive* is situated within the legacy of other adoptee creative works, activisms, and organizations. The archive is not only an exploration of transracial adoptee negotiations and disruptions in the age of navigating uncertain climate futurities, but a call for transformation across all scales, temporalities, and spaces. It makes space for contradictions, ambiguity, anger, frustration, and overwhelming sorrow. At the same moment, the archive welcomes celebration, joy, and kinship. 
+
+ *This archive is for adoptees, wherever they are in their journey.* 
 
 Hannah Gershone
 
@@ -30,7 +34,9 @@ July 14, 2022
 
 Eugene, OR
 
-# References
+## Bibliography
+
+Choy, Catherine Ceniza. Global Families: A History of Asian International Adoption in America. New York University Press, 2013.
 
 Ho, Jennifer Ann. “Antisentimental Loss: Stories of Transracial/Transnational Asian American Adult Adoptees in the Blogosphere.” Racial Ambiguity in Asian American Culture, Rutgers University Press, 2015, pp.44-70.
 
