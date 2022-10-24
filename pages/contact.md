@@ -10,6 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/ocean.jpeg" %}
 
-# Contact
-
+# <u>Contact</u>
+<p>&nbsp;</p>
 For all questions and concerns, please email: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)
+<p>&nbsp;</p>
