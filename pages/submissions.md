@@ -14,8 +14,6 @@ credits: true
 
 ---
 **Fall Cycle Deadline: September 15, 2022**
-**Contact: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)**
-
 
 Contact: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)
 
