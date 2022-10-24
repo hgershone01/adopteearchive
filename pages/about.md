@@ -12,47 +12,55 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-# About the Archive
+# The Archive
 
-## *This project began out of disappointment.*
+## This project began out of disappointment.
+
+
+
+Why are spaces outside of the adoptee community silent on environmental injustices surrounding adoption? In the discourse surrounding uncertain toxic futurities, reproductive anxieties, and climate disasters, adoptees of color (and their birth families) are typically erased in narratives of environmental humanitarianism and rescue. 
+
+ ***Adoptee Literary and Art Archive* (ALAA) seeks to uplift adoptee voices and environmentalisms.**
+
+**We aim to begin a conversation surrounding the intersections of transracial adoption, art, and environment.** 
+
+**We argue that transracial adoptee environmentalisms are essential for just environmental futures.** 
+
+In “Archives, Records, and Power: The Making of Modern Memory” (2002), Joan M. Schwartz and Terry Cook state that “are not passive storehouses of old stuff, but active sites where social power is negotiated, contested, confirmed. The power of archives, records, and archivists should no longer remain naturalized or denied, but opened to vital debate and transparent accountability.” Transparency, accessibility, and open-source access to the means and methods of ALAA are essential elements of this digital humanities project. 
+
+The overwhelming majority of adoptee-led websites were developed through proprietary companies (e.g., WordPress, Squarespace, Wix, etc.). While ALAA was built in the legacy of these adoptee spaces, we believe that proprietary platforms teach users how to use their interface instead of adequately supporting skills that translate to other digital humanities and web development projects. 
+
+Given that a prominent aspect of adoptee community-building since the mid-2000s has been through digital spaces and the lack of transparency in what Dr. Kimberly McKee calls the ‘transnational adoption industrial complex,’ ALAA is meant to empower transracial adoptees to have agency and direct ownership of their storytelling process and archival repositories through digital humanities initiatives. 
+
+ALAA was developed using the University of Idaho Library’s [CollectionBuilder](https://collectionbuilder.github.io/about.html), chosen for its accessibility, transferability, customization, and metadata capabilities. CollectionBuilder uses the static site generator Jekyll to generate digital collections, and visitors to ALAA are able to download the repository’s data and replicate its methodology to create their own digital archives (although contributors’ work is licensed under a restrictive Creative Commons license). 
+
+ALAA invites transracial adoptees 18 years of age or older to contribute literary or artwork. We also welcome artist collectives and intergenerational adoptees, defined here as those who have a parent or grandparent who was adopted transracially, to contribute. 
+
+**Contributors must also connect their work to the environment.** ‘Environment’ includes the places where we ‘live, work, and play.’ Broadly, it includes the ‘natural’ environment and urban spaces. We are interested in the relationships transracial adoptees have with the environment. Contributions that navigate questions of uncertain climate futures are of particular interest, although this is not a requirement. For example, reflections on birdwatching in Minneapolis are just as welcome as artwork examining the relationship between environmental disasters and transracial adoption.
+
+Beyond formatting guidelines for submission to ALAA, there are no restrictions on the type of contribution. We welcome film, audio, text, and image representations of sculptures, paintings, creative fiction, memoir, poetry, ceramics, and other literary or art forms of contributors’ choice. Accepted contributions will be licensed under a restrictive [Creative Commons agreement CC BY-NC-ND 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+A list of [optional guiding prompts]() is available to aid in sparking ideas, thoughts, questions, and curiosities for creating work. 
+
+In 2022, ALAA served as **Hannah Gershone’s** terminal master’s project through the University of Oregon’s Environmental Studies department, although its work continues today. She was mentored and advised by her three committee members: **Dr. Sarah D. Wald (Chair)**, **Kate Thornhill**, and **Dr. Mattie Burkert**.
+
+First and foremost a resource for transracial adoptees, the digital archive continues the legacy of adoptee activism, which demands that adoptee voices are seen, heard, and understood as legitimate sites of knowledge. 
+
+The archive will also serve as a wealth of primary resources for scholars interested in discussing adoption, environment, and uncertain climate futures within the same breath.
+
+*Adoptee Literary and Art Archive* is a beginning, a reclamation, and one way in finding home. 
+
+Please visit the [Submission Overview]() page for more details on how to contribute. 
+
+
+
+
+[CollectionBuilder](https://collectionbuilder.github.io/about.html)
+
+
 
 <div class="row collection-narrow">
 <div class="col-12 py-15" markdown="1">
 <!--- {% include feature/image.html objectid="demo_005" width="50" %} -->
 
 {% include feature/image.html objectid="demo_005;demo_001;demo_001" %}
-
-Why are spaces outside the adoptee community silent on environmental injustices surrounding adoption? 
-
-In the discourse surrounding uncertain toxic futurities, reproductive anxieties, and climate disasters, adoptees of color (an{d their birth families) are typically erased in narratives of humanitarianism and environmentalism.
-
-*Adoptee Literary and Art Archive* argues that **environmental justice is adoptee justice.**
-
-**We seek to uplift the voices and environmentalisms of transracial adoptees who identify as Black, Indigenous, and People of Color, with the knowledge that they are essential for just futures.**
-
-**We aim to begin a conversation surrounding the intersections of transracial adoption, art, and environment.**
-
-First and foremost a resource for adoptees, *Adoptee Literary and Art Archive* directly addresses the gap in scholarly and public discourse between environmental justice and adoptee justice, aiming to uplift and increase the visibility of adoptee voices and environmentalism. 
-
-All self-identifying transracial adoptees (those who identify as a different race than their adoptive parent(s)), of 18 years of age or older, are invited to contribute literature or artwork exploring their relationship with the environment. The archive also invites intergenerational adoptees to contribute, or those who may have immediate family members who were adopted transracially (such as a parent).
-
-*Adoptee Literary and Art Archive* was created by **Hannah L. Gershone** as her terminal master's project in 2022 in the University of Oregon's Environmental Studies Department. She was advised, mentored, and in collaboration with her committee: **Dr. Sarah Wald (chair)**, **Kate Thornhill**, and **Dr. Mattie Burkert**. Designed to be a long-term project, this site was generated using [CollectionBuilder](https://collectionbuilder.github.io/about.html), which was developed by librarians at the University of Idaho, as an open-source framework for creating free and simple digital collections projects. 
-
-*Adoptee Literary and Art Archive* is still in progress today and accepts new submissions during the Spring and Fall of each year.
-
-In short, *Adoptee Literary and Art Archive* was created in the legacy of transracial adoptee activism that proclaims, ‘we are not invisible and we are not silent’ in the movement for just environmental futures.
-
-To learn more about this project, please visit the 'Creator,' 'Context,' and 'Licensing' pages. Submissions information and resources are also available on this site.
-
-
-
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
