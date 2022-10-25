@@ -9,7 +9,7 @@ credits: true
 ---
 <div class="row about-narrow">
 <div class="col-md-6" markdown="1">
-{% include feature/image.html objectid="demo_001" width="100" %}
+{% include feature/image.html objectid="/assets/img/creator.jpeg" width="75" %}
 </div>
 
 <div class="col-md-5 about-imgpara" markdown="1">
