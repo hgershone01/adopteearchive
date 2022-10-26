@@ -45,22 +45,23 @@ Contact: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)
 ### How to Submit
 The submission process will vary slightly depending on what kind of work you are submitting. The general steps for all contributors have been outlined below.
 
-1. Recommended Reading: [Background]() and [Licensing]()
+1. Recommended Reading: [Background](https://hgershone01.github.io/adopteearchive/background.html) and [Licensing](https://hgershone01.github.io/adopteearchive/licensing.html)
 
-2. Review [Submission Guidelines]() and [Guiding Prompts]()
+2. Review [Submission Overview](https://hgershone01.github.io/adopteearchive/submissions.html) and [Guiding Prompts](https://hgershone01.github.io/adopteearchive/prompts.html)
 
 3. Create literary or artwork that explores your relationship with the environment. This includes both urban and ‘natural’ spaces. Work created in the past is also accepted! All contributors are also invited to write an optional bio (max 100 words) and optional artist statement (max 250 words) 
 
 4. Follow the submission guidelines **specific to your type of contribution:**
 
-    - **Visual Representations of your work or photography.** For example, if you made a painting, you would take a photo and submit it to the archive. This also includes, but is not limited to: visual representations of sculpture, textiles, drawings, and prints. Photography is included in this category. **JPG format only**; please share a Google Drive link to your work through the Qualtrics form. 
+    - **[Visual Representations of your work or photography.](https://hgershone01.github.io/adopteearchive/visualrepresentations.html)** For example, if you made a painting, you would take a photo and submit it to the archive. This also includes, but is not limited to: visual representations of sculpture, textiles, drawings, and prints. Photography is included in this category. **JPG format only**; please share a Google Drive link to your work through the Qualtrics form. 
 
-    - **Literature**, including (but not limited to): poetry, memoir, creative nonfiction, letters(s), ethnography, and diary entries. **PDF format only**; please share a Google Drive link to your work through the Qualtrics form. 
+    - **[Literature](https://hgershone01.github.io/adopteearchive/literature.html)**. This includes, but is not limited to: poetry, memoir, creative nonfiction, letters(s), ethnography, and diary entries. **PDF format only**; please share a Google Drive link to your work through the Qualtrics form. 
 
-    - **Film**. Upload to YouTube and share link through the Qualtrics form
+    - **[Film](https://hgershone01.github.io/adopteearchive/film.html)**. Upload to YouTube and share link through the Qualtrics form
 
-    - **Audio Only**. Upload to SoundCloud and share link through the Qualtrics form
-    <p>&nbsp;</p>
-5. Fill out the [Qualtrics Submission Form](https://oregon.qualtrics.com/jfe/form/SV_4IQjZe58IHrIpZc), which also includes a restrictive [Creative Commons Licensing Agreement]()
+    - **[Audio Only](https://hgershone01.github.io/adopteearchive/audio.html)**. Upload to SoundCloud and share link through the Qualtrics form<br>
+5. Fill out the [Qualtrics Submission Form](https://oregon.qualtrics.com/jfe/form/SV_4IQjZe58IHrIpZc), which also includes a restrictive [Creative Commons Licensing Agreement](https://hgershone01.github.io/adopteearchive/licensing.html)
 
 6. Celebrate :)
+
+ <p>&nbsp;</p>

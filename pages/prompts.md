@@ -12,7 +12,7 @@ credits: true
 
 # Optional Guiding Prompts
 
-Below is a list of optional guiding prompts to aid in sparking ideas, thoughts, questions, and curiosities for creating work.  This list was modeled after, and inspired by, [Latino Outdoors’ prompts for Yo Cuento blog posts.](https://latinooutdoors.org/blog/a-guide-to-writing-your-yo-cuento-blog-post/)
+Below is a list of optional guiding prompts to aid in sparking ideas, thoughts, questions, and curiosities for creating work.  This list was modeled after, and inspired by, [Latino Outdoors’ prompts for their *Yo Cuento* blog posts.](https://latinooutdoors.org/blog/a-guide-to-writing-your-yo-cuento-blog-post/)
 
 ---
 
