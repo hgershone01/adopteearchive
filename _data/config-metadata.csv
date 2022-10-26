@@ -14,3 +14,5 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+artistbio,Artist Bio,,
+artiststatement,Artist Statement,,
