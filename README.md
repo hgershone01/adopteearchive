@@ -2,7 +2,7 @@
 
 This project began out of disappointment. Why are spaces outside of the adoptee community silent on environmental injustices surrounding adoption? In the discourse surrounding uncertain toxic futurities, reproductive anxieties, and climate disasters, adoptees of color (and their birth families) are typically erased in narratives of environmentalism and rescue.
 
-Adoptee Literary and Art Archive (ALAA) argues that environmental justice is adoptee justice by directly addressing the gap in scholarly and public discourse between environmental studies and critical adoption studies. ALAA is a digital humanities project of digitized transracial/transnational adoptee literature and art, including poetry, memoirs, recipes, paintings, drawings, sculpture, film, and textiles. ALAA was developed using [CollectionBuilder](https://collectionbuilder.github.io/cb-docs/), an open-source tool for creating digital collections. 
+*Adoptee Literary and Art Archive* (ALAA) argues that environmental justice is adoptee justice by directly addressing the gap in scholarly and public discourse between environmental studies and critical adoption studies. ALAA is a digital humanities project of digitized transracial/transnational adoptee literature and art, including poetry, memoirs, recipes, paintings, drawings, sculpture, film, and textiles. ALAA was developed using [CollectionBuilder](https://collectionbuilder.github.io/cb-docs/), an open-source tool for creating digital collections. 
 
 ALAA served as Hannah Gershone’s terminal master’s project in the Environmental Studies Department at the University of Oregon in 2022 and was directed by Dr. Sarah D. Wald (Chair), Kate Thornhill, and Dr. Mattie Burkert. 
 
@@ -22,7 +22,7 @@ ALAA served as Hannah Gershone’s terminal master’s project in the Environmen
 - If applicable, a link to your Artist or Artist Collective Website
 
 ### How to Submit
-The submission process will vary slightly depending on what kind of work you are submitting. Please visit ALAA Submissions for more information. 
+The submission process will vary slightly depending on what kind of work you are submitting. Please visit [ALAA Submissions](https://hgershone01.github.io/adopteearchive/submissions.html) for more information. 
 
 **Note:** Current visible items in the collection are substitutes for work and are used to help potential contributors to ALAA get a feel for what the collection will look like after June 2023. 
 
@@ -32,6 +32,7 @@ The submission process will vary slightly depending on what kind of work you are
 - ALAA Data Dictionary
 - ALAA Metadata 
 - ALAA Written Project Report (University of Oregon Scholars Bank) 
+- [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/) (ALAA uses CollectionBuilder-GH)
 
 ## Features
 
