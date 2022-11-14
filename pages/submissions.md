@@ -57,9 +57,7 @@ The submission process will vary slightly depending on what kind of work you are
 
     - **[Literature](https://hgershone01.github.io/adopteearchive/literature.html)**. This includes, but is not limited to: poetry, memoir, creative nonfiction, letters(s), ethnography, and diary entries. **PDF format only**; please share a Google Drive link to your work through the Qualtrics form. 
 
-    - **[Film](https://hgershone01.github.io/adopteearchive/film.html)**. Upload to YouTube and share link through the Qualtrics form
-
-    - **[Audio Only](https://hgershone01.github.io/adopteearchive/audio.html)**. Upload to SoundCloud and share link through the Qualtrics form<br>
+    - **[Film](https://hgershone01.github.io/adopteearchive/film.html)**. Upload to YouTube and share link through the Qualtrics form<br>
 5. Fill out the [Qualtrics Submission Form](https://oregon.qualtrics.com/jfe/form/SV_4IQjZe58IHrIpZc), which also includes a restrictive [Creative Commons Licensing Agreement](https://hgershone01.github.io/adopteearchive/licensing.html)
 
 6. Celebrate :)
