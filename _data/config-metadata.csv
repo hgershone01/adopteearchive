@@ -2,6 +2,8 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+artiststatement,Artist Statement,,
+artistbio,Artist Bio,,
 description,Description,
 subject,Subjects,true
 material,Materials
@@ -14,5 +16,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-artistbio,Artist Bio,,
-artiststatement,Artist Statement,,
