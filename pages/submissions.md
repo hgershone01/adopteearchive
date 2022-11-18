@@ -13,7 +13,7 @@ credits: true
 # Submissions Overview
 
 ---
-**Fall Cycle Deadline: September 15, 2022**
+**Fall Cycle Deadline: November 1, 2022**
 
 Contact: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)
 
