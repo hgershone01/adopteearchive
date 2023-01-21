@@ -6,7 +6,7 @@ This project began out of disappointment. Why are spaces outside of the adoptee 
 
 ALAA served as Hannah Gershone’s terminal master’s project in the Environmental Studies Department at the University of Oregon in 2022 and was directed by Dr. Sarah D. Wald (Chair), Kate Thornhill, and Dr. Mattie Burkert. 
 
-## Call for Submissions January -June 2023
+## Call for Submissions January 30 - June 15, 2023
 
 ### Eligibility
 - **18 years of age or older** for all contributors, including collaborative works
