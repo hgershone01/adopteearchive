@@ -13,7 +13,7 @@ credits: true
 # Submissions Overview
 
 ---
-**Fall Cycle Deadline: November 1, 2022**
+**Spring/Summer Cycle Deadline: June 15, 2023**
 
 Contact: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)
 
