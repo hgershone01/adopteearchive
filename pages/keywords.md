@@ -12,7 +12,7 @@ credits: true
 
 # Keywords Dictionary
 
-We use keywords to make categorize and make your work 'findable' by visitors to the site.<br>
+We use keywords to make categorize and make your work 'findable' by visitors to the site.
 All defintions are broadly defined, fluid, and dynamic.
 <p>&nbsp;</p>
 
