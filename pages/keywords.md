@@ -1,5 +1,5 @@
 ---
-title: Keywords Dictionary
+title: Keywords
 layout: about
 permalink: /keywords.html
 # include CollectionBuilder info at bottom
