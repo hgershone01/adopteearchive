@@ -13,7 +13,7 @@ credits: true
 # Submissions Overview
 
 ---
-**Spring/Summer Cycle Deadline: June 15, 2023**
+**Summer Cycle Deadline: June 1, 2024**
 
 Contact: [adopteearchive@gmail.com](mailto:adopteearchive@gmail.com)
 
@@ -47,7 +47,7 @@ The submission process will vary slightly depending on what kind of work you are
 
 1. Recommended Reading: [Background](https://hgershone01.github.io/adopteearchive/background.html) and [Licensing](https://hgershone01.github.io/adopteearchive/licensing.html)
 
-2. Review [Submission Overview](https://hgershone01.github.io/adopteearchive/submissions.html) and [Guiding Prompts](https://hgershone01.github.io/adopteearchive/prompts.html)
+2. Review [Submission Overview](https://hgershone01.github.io/adopteearchive/submissions.html) and [Guiding Prompts](https://hgershone01.github.io/adopteearchive/prompts.html) 
 
 3. Create literary or artwork that explores your relationship with the environment. This includes both urban and ‘natural’ spaces. Work created in the past is also accepted! All contributors are also invited to write an optional bio (max 100 words) and optional artist statement (max 250 words) 
 
