@@ -1,5 +1,7 @@
 # *Adoptee Literary and Art Archive (ALAA)*
 
+[![DOI](https://zenodo.org/badge/552683512.svg)](https://zenodo.org/doi/10.5281/zenodo.11389707)
+
 This project began out of disappointment. Why are spaces outside of the adoptee community silent on environmental injustices surrounding adoption? In the discourse surrounding uncertain toxic futurities, reproductive anxieties, and climate disasters, adoptees of color (and their birth families) are typically erased in narratives of environmentalism and rescue.
 
 *Adoptee Literary and Art Archive* (ALAA) argues that environmental justice is adoptee justice by directly addressing the gap in scholarly and public discourse between environmental studies and critical adoption studies. ALAA is a digital humanities project of digitized transracial/transnational adoptee literature and art, including poetry, memoirs, recipes, paintings, drawings, sculpture, film, and textiles. ALAA was developed using [**CollectionBuilder**](https://collectionbuilder.github.io/cb-docs/), an open-source tool for creating digital collections. 
